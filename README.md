@@ -10,4 +10,4 @@
 
 4.Thresholding_and_Connect_Component_Finding
 
-5.YoLo4_Car_detect_violations
+5.YoLo4_vehicle_detect_violations
